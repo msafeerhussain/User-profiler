@@ -21,7 +21,7 @@ Welcome to the User Profiler repository built with React.js! This application al
   - Prompts an error when the age entered is less than 1.
 
 ## Demo
-You can try out the User Profiler by visiting the live demo [here](#insert-link-to-demo-here).
+You can try out the User Profiler by visiting the live demo [here](https://user-profiler.vercel.app/).
 
 ## Getting Started
 Follow these instructions to get the project up and running on your local machine.
@@ -33,7 +33,7 @@ Before you begin, ensure you have met the following requirements:
 ### Installation
 1. Clone the repository to your local machine:
    ```sh
-   git clone https://github.com/your-username/user-profiler.git
+   git clone https://github.com/msafeerhussain/User-profiler.git
    ```
 
 2. Navigate to the project directory:
